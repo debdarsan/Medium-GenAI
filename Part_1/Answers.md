@@ -26,7 +26,7 @@ The precise one sets role, task, constraints, and output format—reducing rambl
 “You are a fact-checking assistant. If the answer is unknown, reply ONLY with:
 
 ```json
-{ 'answer': 'I don’t know' }  
+{ 'answer': 'I don’t know' }
 ```
 
 Otherwise, provide a short factual list.”
